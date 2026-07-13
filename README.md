@@ -20,11 +20,11 @@ I am a driven professional transitioning into cybersecurity and network infrastr
 
 ## 📈 Featured Projects
 
-### 🛡️ [Project Name: e.g., Homelab Network & SIEM Deployment]
+### 🛡️ [Homelab Network]
 * **Description:** Built a virtualized network environment utilizing PFsens/Opnsense and integrated a centralized SIEM (Wazuh/ELK stack) to monitor logs and detect simulated brute-force attacks.
 * **Tech Used:** Linux, Firewalls, SIEM, Syslog, Network Protocols.
 
-### ⚙️ [Project Name: e.g., Automated Network Monitoring Script]
+### ⚙️ [Automated Network Monitoring Script]
 * **Description:** Developed a Python tool to ping critical assets, analyze response packets, and log connectivity drops, demonstrating foundational automation for network uptime.
 * **Tech Used:** Python, Network Sockets, Scripting.
 
