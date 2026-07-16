@@ -1,7 +1,8 @@
 # Hi there, I'm Kyle! 👋
 
-### 🚀 Aspiring SOC Analyst & Network Engineer
-I am a driven professional transitioning into cybersecurity and network infrastructure. I specialize in building secure network architectures, automating workflows, and analyzing system environments to defend against modern threats.
+### 🛠️ IT Support Specialist & Troubleshooting Enthusiast
+
+I am a dedicated IT professional focused on delivering exceptional technical support, resolving complex hardware/software issues, and keeping critical systems running smoothly. I specialize in hands-on troubleshooting, active system administration, and providing clear, user-focused solutions to keep teams productive.
 
 ---
 
@@ -13,6 +14,7 @@ I am a driven professional transitioning into cybersecurity and network infrastr
 ![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ### **Operating Systems & Environment**
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
@@ -20,10 +22,9 @@ I am a driven professional transitioning into cybersecurity and network infrastr
 
 ## 📈 Featured Projects
 
-### 🛡️ [Homelab Network]
-* **Description:** Built a virtualized network environment utilizing PFsens/Opnsense and integrated a centralized SIEM (Wazuh/ELK stack) to monitor logs and detect simulated brute-force attacks.
-* **Tech Used:** Linux, Firewalls, SIEM, Syslog, Network Protocols.
-
+### 🖥️ Physical & Virtual Homelab Environment
+* **Description:** Designed and maintained a hybrid lab environment combining physical hardware and virtual machines (VMs) to simulate a standard office network. Installed, configured, and networked multiple client operating systems to practice system deployment, software installation, user account setup, and network troubleshooting.
+* **Tech Used:** Virtualization, Windows, Linux, OS Deployment, Hardware & Software Troubleshooting, Local Networking.
 ### ⚙️ [Automated Network Monitoring Script]
 * **Description:** Developed a Python tool to ping critical assets, analyze response packets, and log connectivity drops, demonstrating foundational automation for network uptime.
 * **Tech Used:** Python, Network Sockets, Scripting.
