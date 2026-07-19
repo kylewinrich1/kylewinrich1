@@ -25,7 +25,7 @@ I am a dedicated IT professional focused on delivering exceptional technical sup
 ### 🖥️ Physical & Virtual Homelab Environment
 * **Description:** Designed and maintained a hybrid lab environment combining physical hardware and virtual machines (VMs) to simulate a standard office network. Installed, configured, and networked multiple client operating systems to practice system deployment, software installation, user account setup, and network troubleshooting.
 * **Tech Used:** Virtualization, Windows, Linux, OS Deployment, Hardware & Software Troubleshooting, Local Networking.
-### ⚙️ [Automated Network Monitoring Script]
+### ⚙️ Automated Network Monitoring Script
 * **Description:** Developed a Python tool to ping critical assets, analyze response packets, and log connectivity drops, demonstrating foundational automation for network uptime.
 * **Tech Used:** Python, Network Sockets, Scripting.
 
