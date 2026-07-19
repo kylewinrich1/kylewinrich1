@@ -28,7 +28,9 @@ I am a dedicated IT professional focused on delivering exceptional technical sup
 ### ⚙️ Automated Network Monitoring Script
 * **Description:** Developed a Python tool to ping critical assets, analyze response packets, and log connectivity drops, demonstrating foundational automation for network uptime.
 * **Tech Used:** Python, Network Sockets, Scripting.
-
+### [How to set up a Windows Virtual machine and secure it with a VPN.](https://github.com/kylewinrich1/Building-a-Secure-Test-Environment-Virtual-Machine-VPN-Implementation/blob/main/README.md)
+* **Description:** Download and install a windows iso to VirtualBox. Then secure it by installing Proton VPN.
+* **Tech Used:** VirtualBox, ProtonVPN, Windows11.
 ---
 
 ## 🧠 Current Focus & Continuous Learning
